@@ -1,0 +1,15 @@
+/Users/stanislav/Projects/variables/1/bin/Debug/net5.0/1.deps.json
+/Users/stanislav/Projects/variables/1/bin/Debug/net5.0/1.runtimeconfig.json
+/Users/stanislav/Projects/variables/1/bin/Debug/net5.0/1.runtimeconfig.dev.json
+/Users/stanislav/Projects/variables/1/bin/Debug/net5.0/1.dll
+/Users/stanislav/Projects/variables/1/bin/Debug/net5.0/ref/1.dll
+/Users/stanislav/Projects/variables/1/bin/Debug/net5.0/1.pdb
+/Users/stanislav/Projects/variables/1/obj/Debug/net5.0/1.csprojAssemblyReference.cache
+/Users/stanislav/Projects/variables/1/obj/Debug/net5.0/1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislav/Projects/variables/1/obj/Debug/net5.0/1.AssemblyInfoInputs.cache
+/Users/stanislav/Projects/variables/1/obj/Debug/net5.0/1.AssemblyInfo.cs
+/Users/stanislav/Projects/variables/1/obj/Debug/net5.0/1.csproj.CoreCompileInputs.cache
+/Users/stanislav/Projects/variables/1/obj/Debug/net5.0/1.dll
+/Users/stanislav/Projects/variables/1/obj/Debug/net5.0/ref/1.dll
+/Users/stanislav/Projects/variables/1/obj/Debug/net5.0/1.pdb
+/Users/stanislav/Projects/variables/1/obj/Debug/net5.0/1.genruntimeconfig.cache
